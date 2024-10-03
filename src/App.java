@@ -26,6 +26,7 @@ public class App {
 
         System.out.println(tulo);
         System.out.println(luku1 +luku2);
+        System.out.println(luku1 - luku2);
         
         //double luku1, luku2, tulo;
         // luku1=5;
